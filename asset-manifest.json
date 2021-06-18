@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ak./static/css/main.bd8a1016.chunk.css",
+    "main.js": "/ak./static/js/main.ac15a354.chunk.js",
+    "main.js.map": "/ak./static/js/main.ac15a354.chunk.js.map",
+    "runtime-main.js": "/ak./static/js/runtime-main.a335eb08.js",
+    "runtime-main.js.map": "/ak./static/js/runtime-main.a335eb08.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/ak./static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7fc0320d.chunk.js": "/ak./static/js/2.7fc0320d.chunk.js",
+    "static/js/2.7fc0320d.chunk.js.map": "/ak./static/js/2.7fc0320d.chunk.js.map",
+    "static/js/3.c5a75890.chunk.js": "/ak./static/js/3.c5a75890.chunk.js",
+    "static/js/3.c5a75890.chunk.js.map": "/ak./static/js/3.c5a75890.chunk.js.map",
+    "index.html": "/ak./index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/ak./static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.bd8a1016.chunk.css.map": "/ak./static/css/main.bd8a1016.chunk.css.map",
+    "static/js/2.7fc0320d.chunk.js.LICENSE.txt": "/ak./static/js/2.7fc0320d.chunk.js.LICENSE.txt",
+    "static/media/Arpit Kumar CV.9085ad00.pdf": "/ak./static/media/Arpit Kumar CV.9085ad00.pdf",
+    "static/media/about.aee0f771.png": "/ak./static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/ak./static/media/avatar.5852f40f.svg",
+    "static/media/codeEditor.ba945879.png": "/ak./static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/ak./static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/ak./static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/ak./static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/ak./static/media/leaf.4c15d6eb.png",
+    "static/media/logo.d0864967.png": "/ak./static/media/logo.d0864967.png",
+    "static/media/plant.c9d382ae.jpeg": "/ak./static/media/plant.c9d382ae.jpeg",
+    "static/media/smgs.88d30d91.png": "/ak./static/media/smgs.88d30d91.png",
+    "static/media/suicide.b72f1f9f.png": "/ak./static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a335eb08.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7fc0320d.chunk.js",
+    "static/css/main.bd8a1016.chunk.css",
+    "static/js/main.ac15a354.chunk.js"
+  ]
+}
